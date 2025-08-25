@@ -1,7 +1,7 @@
 {
   "type": "module",
   "name": "mod-free",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "The CSS framework for SaaS apps.",
   "repository": {
     "type": "git",
