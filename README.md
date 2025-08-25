@@ -1,4 +1,4 @@
-<img style="height: 26px; margin-bottom: 20px" src="logo.svg" alt="Mod" />
+<img style="height: 22px; margin-bottom: 20px" src="logo.svg" alt="Mod" />
 
 ### The CSS framework for SaaS apps
 
