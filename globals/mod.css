@@ -1,4 +1,4 @@
-@keyframes spin{0%{transform:rotate(0deg)}to{transform:rotate(360deg)}}*,:after,:before{margin:0;padding:0;border:0;font:inherit;vertical-align:baseline;box-sizing:border-box}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:after,blockquote:before,q:after,q:before{content:none}table{border-collapse:collapse;border-spacing:0}@media screen and (max-device-width:480px){body{-webkit-text-size-adjust:100%}}:root{--mod-font-stack:"Inter",
+@keyframes spin{0%{transform:rotate(0deg)}to{transform:rotate(360deg)}}*{-ms-overflow-style:none;scrollbar-width:none}::-webkit-scrollbar{display:none}*,:after,:before{margin:0;padding:0;border:0;font:inherit;vertical-align:baseline;box-sizing:border-box}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:after,blockquote:before,q:after,q:before{content:none}table{border-collapse:collapse;border-spacing:0}@media screen and (max-device-width:480px){body{-webkit-text-size-adjust:100%}}:root{--mod-font-stack:"Inter",
     -apple-system,
     BlinkMacSystemFont,
     system-ui,
